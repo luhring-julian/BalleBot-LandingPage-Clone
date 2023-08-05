@@ -1,3 +1,3 @@
-A clone from a Discord bot website made by Rafaella Ballerini.
+Um clone do Discord Bot Website feito pela Rafaella Ballerini.
 
-Original Project: https://github.com/rafaballerini/LandingPage.git
+Projeto original: https://github.com/rafaballerini/LandingPage.git
